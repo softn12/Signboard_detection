@@ -1,0 +1,10 @@
+C:/Users/softn/OneDrive/signboard/keras-frcnn/dataset/sign1.jpg,300,300,1600,550,Flat
+C:/Users/softn/OneDrive/signboard/keras-frcnn/dataset/sign2.jpg,120,80,780,190,Flat
+C:/Users/softn/OneDrive/signboard/keras-frcnn/dataset/sign3.jpg,400,80,1450,400,Flat
+C:/Users/softn/OneDrive/signboard/keras-frcnn/dataset/sign4.jpg,0,40,330,80,Cubic
+C:/Users/softn/OneDrive/signboard/keras-frcnn/dataset/sign5.jpg,300,200,1650,450,Flat
+C:/Users/softn/OneDrive/signboard/keras-frcnn/dataset/sign6.jpg,150,120,680,170,Cubic
+C:/Users/softn/OneDrive/signboard/keras-frcnn/dataset/sign7.jpg,60,100,500,160,Cubic
+C:/Users/softn/OneDrive/signboard/keras-frcnn/dataset/sign8.jpg,50,100,600,200,Cubic
+C:/Users/softn/OneDrive/signboard/keras-frcnn/dataset/sign9.jpg,550,300,1800,550,Cubic
+C:/Users/softn/OneDrive/signboard/keras-frcnn/dataset/sign10.jpg,120,90,580,190,Flat

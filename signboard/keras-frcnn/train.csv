@@ -1,0 +1,11 @@
+Image_names,Cell_type,xmin,xmax,ymin,ymax
+sign1.jpg,Flat,300,1600,300,550
+sign2.jpg,Flat,120,780,80,190
+sign3.jpg,Flat,400,1450,80,400
+sign4.jpg,Cubic,0,330,40,80
+sign5.jpg,Flat,300,1650,200,450
+sign6.jpg,Cubic,150,680,120,170
+sign7.jpg,Cubic,60,500,100,160
+sign8.jpg,Cubic,50,600,100,200
+sign9.jpg,Cubic,550,1800,300,550
+sign10.jpg,Flat,120,580,90,190
